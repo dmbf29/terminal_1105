@@ -30,3 +30,6 @@ rm -r folder_name
 
 rm filename
 => removes the file
+
+open . (mac only)
+=> opens folder in finder
