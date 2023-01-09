@@ -24,3 +24,9 @@ mv filename folder_name
 
 mv filename new_filename
 => renames the file
+
+rm -r folder_name
+=> removes the folder
+
+rm filename
+=> removes the file
