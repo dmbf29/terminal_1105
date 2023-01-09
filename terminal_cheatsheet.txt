@@ -1,0 +1,26 @@
+pwd
+=> shows the folder i'm currently at
+
+ls / ll
+=> show the files/folders inside of the current one
+
+cd folder_name
+=> move into that folder
+
+cd ..
+=> moved backwards
+
+mkdir folder_name
+=> created a new folder
+
+touch filename.txt
+=> creates a new file
+
+code .
+=> opens VS code in the current folder
+
+mv filename folder_name
+=> move file into new folder
+
+mv filename new_filename
+=> renames the file
